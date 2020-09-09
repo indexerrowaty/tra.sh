@@ -1,1 +1,7 @@
-printf "==^==\n|[[[|\n|[[[|\n'---'\n"
+if [ $# -eq 0 ]
+  then
+    printf "==^==\n|[[[|\n|[[[|\n'---'\n"
+   exit 0
+fi
+
+printf "==^==\n|[[[|  <- this is \n|[[[|  $1\n'---'\n"
