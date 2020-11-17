@@ -1,18 +1,19 @@
+#!/usr/bin/env python
 import sys
 
 if not sys.argv[1:]:
-   aytch = """
+   a = """
    ==^==
    |[[[|
    |[[[|
    '---'
    """
-   print(aytch)
+   print(a)
 else:
-   aitch = f"""
+   b = f"""
    ==^==
    |[[[|  <- this is
    |[[[|  {" ".join(sys.argv[1:])}
    '---'
    """
-   print(aitch)
+   print(b)
