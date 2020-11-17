@@ -1,3 +1,4 @@
+#!/usr/bin/env sh
 if [ $# -eq 0 ] 
 then
   printf "==^==\n|[[[|\n|[[[|\n'---'\n"
