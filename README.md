@@ -11,4 +11,4 @@
 <div align="center"><img src="https://cdn.discordapp.com/attachments/653672198736969739/746490500541972540/unknown.png" alt="Preview2"></div>
 
 <h2 align="center">Discord version!</h2>
-<p align="center">So <a href="https://github.com/CyberL1">Cyber</a> decided to create a Discord Bot called `./trash`. To add it click <a href="https://discord.com/oauth2/authorize?client_id=768877535756812298&permissions=0&scope=bot">here</a>.</p>
+<p align="center">So <a href="https://github.com/CyberL1">Cyber</a> decided to create a Discord Bot called <code>./trash</code>. To add it click <a href="https://discord.com/oauth2/authorize?client_id=768877535756812298&permissions=0&scope=bot">here</a>.</p>
