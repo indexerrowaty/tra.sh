@@ -17,4 +17,4 @@ $ trash something you hate
 ![tra.sh preview](https://cdn.discordapp.com/attachments/653672198736969739/746490500541972540/unknown.png)
 
 ## tra.sh Discord bot
-[Cyber](https://github.com/CyberL1) decided to bring the experience of summoning trash can in terminal to Discord. To add tra.sh bot to your Discord server [click here](https://discord.com/oauth2/authorize?client_id=768877535756812298&permissions=0&scope=bot).
+[Cyber](https://github.com/CyberL1) decided to bring the experience of summoning trash can in terminal to Discord. To add tra.sh bot to your Discord server [click here](https://discord.com/oauth2/authorize?client_id=768877535756812298&permissions=274877974528&scope=bot%20applications.commands&scope=bot).
