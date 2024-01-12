@@ -1,21 +1,25 @@
 # tra.sh
-Have you ever dreamt of having trash can in your terminal? Now you can!
+Did you ever dream of having a trash can in your terminal? Well it's not a dream anymore! Introducing **tra.sh**!
 
 ![tra.sh thumbnail](https://imgur.com/ymKiq9S.png)
 
-## How to install it?</h2>
+## How to install it?
 * [Download tra.sh](https://github.com/Indexerrowaty/tra.sh/releases/latest/download/trash).
-* Do a `chmod +x` on it. (`chmod +x trash`)
-* Move `trash` to `/usr/local/bin`!
-* Done! If you haven't messed anything up, you should be able to summon your trash can by running `trash` in terminal.
+* Allow the execution of tra.sh by running `chmod +x trash`.
+* For easy access, move `trash` to one of the directories listed in your PATH. For example `/usr/local/bin`.
+* Done! If you didn't mess anything up, you should be able to summon your trash can by running `trash` in your terminal.
 
-## So it's only function is to show trashcan?
-Nope! You can call someone/something trash by executing this in terminal:
+## Does it do anything more?
+Yes it does! We have this very useful feature which allows you to call somebody or something trash!
+
+For example you are pissed off at nVidia for their proprietary drivers. This is how you can easly insult them: 
 ```
-$ trash something you hate
+$ trash nVidia
 ```
-![tra.sh preview](https://user-images.githubusercontent.com/39349444/179793947-a16d3432-3c16-4dcf-9086-02542e28eca8.png)
+![tra.sh preview](https://github.com/indexerrowaty/tra.sh/assets/39349444/ccaaf8b0-37d1-4d65-85cd-fb91b724e1c3)
 
 
-## tra.sh Discord bot
-[Cyber](https://github.com/CyberL1) decided to bring the experience of summoning trash can in terminal to Discord. To add tra.sh bot to your Discord server [click here](https://discord.com/oauth2/authorize?client_id=768877535756812298&permissions=274877974528&scope=bot%20applications.commands).
+## tra.sh Discord edition
+[Cyber](https://github.com/CyberL1) decided to bring the experience of using tra.sh to Discord.
+
+[Add the tra.sh bot to your Discord server now!](https://discord.com/oauth2/authorize?client_id=768877535756812298&permissions=274877974528&scope=bot%20applications.commands)
